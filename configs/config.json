@@ -33,7 +33,7 @@
         "BYTECOIN_NETWORK": "a314adf7-11dd-086e-52e6-59aa4d7e701b",
         "CRYPTONOTE_NAME": "progressPH",
         "DAEMON_NAME": "progressPHd",
-        "GENESIS_COINBASE_TX_HEX": "010a01ff0001ffffffffffff0f029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101ae5ae80c8c7aa9de1fcdb2d6ba91b93aab6a7449b23dbcacf4e7318032a63a46",
+        "GENESIS_COINBASE_TX_HEX": "010a01ff0001ffffffffffff0f029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101fb3ccbed6afed9b73337f2c4164c4a106c5b0e1bfb4179edbb7a40f2dc8a2627",
         "CHECKPOINTS": "",
         "MAX_BLOCK_SIZE_INITIAL": 100000
     },
